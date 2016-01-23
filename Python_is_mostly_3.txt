@@ -1,0 +1,3 @@
+Mostly 3. 
+
+In chapter 3, we must use 2.7 with Scrapy.
